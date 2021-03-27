@@ -8,8 +8,6 @@
             "Tipo de identificacion": "CC",
             "Cedula":"1020480143",
             "email": "maria.correa@payco.co",
-            "Ciudad": "Bello",  
-            "Telefono": "2582463",
             "Celular": "3215468555"          
         },
         {  
@@ -19,9 +17,7 @@
             "Nombre": "Alejandra Correa",
             "Tipo de identificacion": "CC",
             "Cedula":"1020480143",
-            "email": "maria.correa@payco.co",
-            "Ciudad": "Bello",  
-            "Telefono": "2582463",
+            "email": "maria.correa@payco.co", 
             "Celular": "3215468555"          
         },
         {  
@@ -32,8 +28,6 @@
             "Tipo de identificacion": "CC",
             "Cedula":"1036640253",
             "email": "andres.tangarife@payco.co",
-            "Ciudad": "Caldas",  
-            "Telefono": "2584463",
             "Celular": "3215474555"          
         },
         {  
@@ -44,8 +38,6 @@
             "Tipo de identificacion": "CE",
             "Cedula":"300792415",
             "email": "David.herrera@payco.co",
-            "Ciudad": "Bello",  
-            "Telefono": "4424599",
             "Celular": "3195635862"          
         },
         {  
@@ -56,8 +48,6 @@
             "Tipo de identificacion": "CE",
             "Cedula":"1000452148",
             "email": "Simon Sanchez",
-            "Ciudad": "Bello",  
-            "Telefono": "4424599",
             "Celular": "3195645862"          
         }        
     ],
