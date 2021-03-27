@@ -1,5 +1,4 @@
-{
-    "posts": [
+ [
         {  
             "Valor": 120000,
             "Fecha de vencimiento": "01/04/2021",
@@ -52,8 +51,5 @@
             "Telefono": "4424599",
             "Celular": "3195635862"          
         }        
-    ],
-        "profile":{
-            "name": "typicode"
-        }
-}
+    ]
+
