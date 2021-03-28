@@ -2,7 +2,7 @@
     "posts": [
         {  
             "valor": 120000,
-            "fechaVencimiento": "01/04/2021",
+            "fechaVencimiento": "01-04-2021",
             "descripcion": "Pago Recaudo",
             "nombre": "Alejandra Correa",
             "tipiId": "CC",
@@ -12,7 +12,7 @@
         },
         {  
             "valor": 130000,
-            "fechaVencimiento": "01/05/2021",
+            "fechaVencimiento": "01-05-2021",
             "descripcion": "Pago Recaudo",
             "nombre": "Alejandra Correa",
             "tipiId": "CC",
@@ -22,7 +22,7 @@
         },
         {  
             "valor": 100000,
-            "fechaVencimiento": "01/04/2021",
+            "fechaVencimiento": "01-04-2021",
             "descripcion": "Pago Recaudo",
             "nombre": "Andres Tangarife",
             "tipiId": "CC",
@@ -32,7 +32,7 @@
         },
         {  
             "valor": 90000,
-            "fechaVencimiento": "01/06/2021",
+            "fechaVencimiento": "01-06-2021",
             "descripcion": "Pago Recaudo",
             "nombre": "David Herrera",
             "tipiId": "CE",
@@ -42,7 +42,7 @@
         },
         {  
             "valor": 80000,
-            "Fecha de vencimiento": "01/06/2021",
+            "Fecha de vencimiento": "01-06-2021",
             "descripcion": "Pago Recaudo",
             "nombre": "Simon Sanchez",
             "tipiId": "CE",
