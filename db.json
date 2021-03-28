@@ -5,40 +5,45 @@
             "fechaVencimiento": "01-04-2021",
             "descripcion": "Pago Recaudo",
             "nombre": "Alejandra Correa",
-            "tipiId": "CC",
+            "tipoId": "CC",
             "cedula":"1020480143",
             "email": "maria.correa@payco.co",
-            "celular": "3215468555"          
+            "celular": "3215468555",
+            "factura": "001"
         },
         {  
             "valor": 130000,
             "fechaVencimiento": "01-05-2021",
             "descripcion": "Pago Recaudo",
             "nombre": "Alejandra Correa",
-            "tipiId": "CC",
+            "tipoId": "CC",
             "cedula":"1020480143",
             "email": "maria.correa@payco.co", 
-            "celular": "3215468555"          
+            "celular": "3215468555",
+            "factura": "002"
+            
         },
         {  
             "valor": 100000,
             "fechaVencimiento": "01-04-2021",
             "descripcion": "Pago Recaudo",
             "nombre": "Andres Tangarife",
-            "tipiId": "CC",
+            "tipoId": "CC",
             "cedula":"1036640253",
             "email": "andres.tangarife@payco.co",
-            "celular": "3215474555"          
+            "celular": "3215474555",
+            "factura": "003"
         },
         {  
             "valor": 90000,
             "fechaVencimiento": "01-06-2021",
             "descripcion": "Pago Recaudo",
             "nombre": "David Herrera",
-            "tipiId": "CE",
+            "tipoId": "CE",
             "cedula":"300792415",
             "email": "David.herrera@payco.co",
-            "celular": "3195635862"          
+            "celular": "3195635862",
+            "factura": "004"
         },
         {  
             "valor": 80000,
@@ -48,7 +53,8 @@
             "tipiId": "CE",
             "cedula":"1000452148",
             "email": "Simon Sanchez",
-            "celular": "3195645862"          
+            "celular": "3195645862",
+            "factura": "005"
         }        
     ],
         "profile":{
